@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.top-banner{
+    background-image: url(images/hero\ 5.jpg);
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero-section{
+    color: white;
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-right: 900px;
+}
+.hero-section h1{
+    font-size: 110px;
+    font-weight: 700;
+    
+    text-shadow: 10px 10px 40px rgb(0, 0, 0);
+}
+p{
+    font: 20px;
+}
+.orange-color{
+    color: orange
+}
+.link-button{
+    text-decoration: none;
+    color: #ffffff;
+    background-image: linear-gradient(orange, rgb(252, 38, 0));
+    padding: 14px 25px;
+    font-size: 18px;
+    border-radius: 4px;
+}
